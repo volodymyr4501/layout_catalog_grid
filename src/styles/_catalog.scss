@@ -1,6 +1,5 @@
 .catalog {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
 
   grid-template-columns: repeat(1, $cell-size);
   justify-content: center;
