@@ -18,6 +18,7 @@
   @media (min-width: 1024px) {
     grid-template-columns: repeat(4, $cell-size);
   }
+  
   &__card {
     display: flex;
     justify-content: center;
